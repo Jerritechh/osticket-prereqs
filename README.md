@@ -31,8 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<https://us-west-2-02880055-view.menlosecurity.com/c/0/i/aHR0cHM6Ly9pLmltZ3VyLmNvbS9LSWJ1dkt0X2Qud2VicD9tYXh3aWR0aD03NjAmZmlkZWxpdHk9Z3JhbmQ~" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://imgur.com/KIbuvKt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZjVJieA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/rvnW0O8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
